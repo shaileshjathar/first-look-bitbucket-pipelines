@@ -1,7 +1,7 @@
 <?php
 
 
-require 'GumballMachine.php';
+require '02-running-phpunit-tests/GumballMachine.php';
 
 class GumballMachineTest extends PHPUnit_Framework_TestCase
 {
